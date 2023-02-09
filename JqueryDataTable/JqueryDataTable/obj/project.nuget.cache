@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zp/WJO5EcnD1b9LxzVXkcCAIicKInx2TnHt+SyMaehFwe/sDCbciFO4SC5LVoUZP9cmrn5OyIdBXNo2weHlxng==",
+  "dgSpecHash": "mJ8Krf48c0NiRuBMq7zuhaoREgzgPiUNVHFGnSP/KhXKGvC+3WyqarMPocD+3xMTHySB8JpWuYu6NLKfb5bKsQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\JqueryDataTable\\JqueryDataTable\\JqueryDataTable\\JqueryDataTable.csproj",
   "expectedPackageFiles": [
@@ -106,6 +106,7 @@
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.linq.dynamic.core\\1.2.25\\system.linq.dynamic.core.1.2.25.nupkg.sha512",
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Ayman.abdellatief\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
